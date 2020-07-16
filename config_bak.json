@@ -1,0 +1,18 @@
+{
+  "http": {
+    "Port": ":8099"
+  },
+  "wx" : {
+    "AppID": "",
+    "AppSecret": "",
+    "Token": "",
+    "EncodingAESKey": ""
+  },
+  "redis": {
+    "Host": "127.0.0.1:6310",
+    "Password": "",
+    "Database" : 1
+  }
+}
+
+

@@ -1,0 +1,23 @@
+{
+  "http": {
+    "Port": ":8099"
+  },
+  "wx" : {
+    "AppID": "wxb59c2e1b39a0ad33",
+    "AppSecret": "86d5c2e8bb20380e1fc584a8707eb0fe",
+    "AppID h5": "wxefb11d230e550960",
+    "AppSecret h5": "8680cbc06857eea2b5d1a2535d8b765a",
+    "Token": "sdmcnjf67234hzaslkiashd892",
+    "EncodingAESKey": ""
+  },
+  "redis": {
+    "Host": "127.0.0.1:6310",
+    "Password": "",
+    "Database" : 1
+  },
+  "upload": {
+    "Path": ""
+  }
+}
+
+
